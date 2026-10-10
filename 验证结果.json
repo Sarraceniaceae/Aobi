@@ -1,0 +1,37 @@
+{
+  "version": "1.1.0",
+  "exe_sha256": "0475351e44a127db59ab26111fca06a380c23e34e061d1bbad5d41a0f34623cf",
+  "exe_bytes": 67989177,
+  "verified": {
+    "controller_tests": 6,
+    "standalone_launch_without_python_path": true,
+    "bundled_vision_assets": true,
+    "windows_chinese_ocr": true,
+    "ui_opens_without_starting_gameplay": true,
+    "completed_30_wins_worker_exits_without_casting": true,
+    "preserved_wins": 30,
+    "adaptive_pause_recovery_preserves_progress": true,
+    "manual_and_focus_resume_regression": true,
+    "player_click_guard_regression": true,
+    "small_window_740x500_controls_accessible": true
+  },
+  "adaptive": {
+    "validation_type": "recorded game images resized and placed into synthetic application windows; no new live gameplay",
+    "cases": 99,
+    "game_size_min": [
+      750,
+      439
+    ],
+    "game_size_max": [
+      3213,
+      1881
+    ],
+    "max_click_error_px": 1,
+    "median_locate_ms": 204.49,
+    "median_cached_ms": 1.92,
+    "per_monitor_dpi_awareness": true,
+    "rejects_blank_partial_and_too_small": true,
+    "cancels_pending_click_on_window_resize": true,
+    "negative_monitor_coordinates": true
+  }
+}

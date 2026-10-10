@@ -1,0 +1,997 @@
+{
+  "tests": 6,
+  "successful": true,
+  "cases": [
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 90.11,
+      "cached_ms": 2.09
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 91.35,
+      "cached_ms": 1.58
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 136.07,
+      "cached_ms": 1.76
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 179.62,
+      "cached_ms": 1.88
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 198.55,
+      "cached_ms": 1.83
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 204.49,
+      "cached_ms": 1.77
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 204.23,
+      "cached_ms": 2.58
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 208.57,
+      "cached_ms": 1.96
+    },
+    {
+      "frame": "viewport_arena.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 125.7,
+      "cached_ms": 1.53
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 93.78,
+      "cached_ms": 1.43
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 108.17,
+      "cached_ms": 1.68
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 157.07,
+      "cached_ms": 2.46
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 228.53,
+      "cached_ms": 2.57
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 242.9,
+      "cached_ms": 1.7
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 247.27,
+      "cached_ms": 1.76
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 271.65,
+      "cached_ms": 2.18
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 252.57,
+      "cached_ms": 2.07
+    },
+    {
+      "frame": "viewport_lobby.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 146.61,
+      "cached_ms": 1.58
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 97.11,
+      "cached_ms": 2.06
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 125.13,
+      "cached_ms": 1.48
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 182.84,
+      "cached_ms": 1.65
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 226.26,
+      "cached_ms": 1.71
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 220.55,
+      "cached_ms": 2.95
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 224.79,
+      "cached_ms": 1.85
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 236.27,
+      "cached_ms": 2.72
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 242.06,
+      "cached_ms": 2.82
+    },
+    {
+      "frame": "viewport_selection.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 126.5,
+      "cached_ms": 2.79
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 109.98,
+      "cached_ms": 1.76
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 102.53,
+      "cached_ms": 1.78
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 153.45,
+      "cached_ms": 1.7
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 204.24,
+      "cached_ms": 1.46
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 258.72,
+      "cached_ms": 3.09
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 277.26,
+      "cached_ms": 2.85
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 270.03,
+      "cached_ms": 3.05
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 235.85,
+      "cached_ms": 3.21
+    },
+    {
+      "frame": "confirmed-rune-team.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 136.41,
+      "cached_ms": 2.1
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 123.29,
+      "cached_ms": 1.56
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 114.09,
+      "cached_ms": 1.92
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 162.65,
+      "cached_ms": 1.59
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 253.24,
+      "cached_ms": 2.56
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 320.9,
+      "cached_ms": 2.98
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 255.27,
+      "cached_ms": 3.28
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 233.91,
+      "cached_ms": 2.71
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 251.81,
+      "cached_ms": 2.23
+    },
+    {
+      "frame": "fire-left-edge-spawn.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 117.12,
+      "cached_ms": 1.97
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 100.27,
+      "cached_ms": 1.6
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 108.16,
+      "cached_ms": 1.54
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 143.02,
+      "cached_ms": 2.22
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 207.58,
+      "cached_ms": 1.93
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 229.13,
+      "cached_ms": 2.04
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 227.37,
+      "cached_ms": 2.42
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 215.63,
+      "cached_ms": 2.04
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 243.64,
+      "cached_ms": 2.94
+    },
+    {
+      "frame": "20261002-105734-need-check.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 111.61,
+      "cached_ms": 2.82
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 111.86,
+      "cached_ms": 1.61
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 104.01,
+      "cached_ms": 1.75
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 165.09,
+      "cached_ms": 1.54
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 200.64,
+      "cached_ms": 1.9
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 204.96,
+      "cached_ms": 3.28
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 227.59,
+      "cached_ms": 2.32
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 237.48,
+      "cached_ms": 2.67
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 215.41,
+      "cached_ms": 3.11
+    },
+    {
+      "frame": "20261002-111546-need-check.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 110.36,
+      "cached_ms": 1.97
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 90.85,
+      "cached_ms": 1.77
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 96.44,
+      "cached_ms": 1.51
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 160.88,
+      "cached_ms": 1.6
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 240.18,
+      "cached_ms": 1.59
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 227.1,
+      "cached_ms": 1.58
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 224.33,
+      "cached_ms": 1.75
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 224.43,
+      "cached_ms": 1.95
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 208.01,
+      "cached_ms": 1.99
+    },
+    {
+      "frame": "20261002-165827-team_fire.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 123.45,
+      "cached_ms": 1.32
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 103.41,
+      "cached_ms": 1.78
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 109.04,
+      "cached_ms": 2.4
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 174.11,
+      "cached_ms": 2.48
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 222.37,
+      "cached_ms": 1.89
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 233.33,
+      "cached_ms": 2.5
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 251.22,
+      "cached_ms": 2.41
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 248.36,
+      "cached_ms": 3.61
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 233.13,
+      "cached_ms": 2.51
+    },
+    {
+      "frame": "selected-book-1.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 118.6,
+      "cached_ms": 1.76
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 95.83,
+      "cached_ms": 1.82
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 107.53,
+      "cached_ms": 1.81
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 159.74,
+      "cached_ms": 1.65
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 208.31,
+      "cached_ms": 1.77
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 235.89,
+      "cached_ms": 2.88
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 220.09,
+      "cached_ms": 1.92
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 209.48,
+      "cached_ms": 1.86
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 229.27,
+      "cached_ms": 2.97
+    },
+    {
+      "frame": "selected-book-3.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 120.67,
+      "cached_ms": 1.59
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        750,
+        439
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 100.21,
+      "cached_ms": 1.32
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        803,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 99.39,
+      "cached_ms": 1.3
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        1071,
+        627
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 158.76,
+      "cached_ms": 2.09
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        1339,
+        784
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 206.86,
+      "cached_ms": 1.68
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        1606,
+        940
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 242.37,
+      "cached_ms": 2.13
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        2142,
+        1254
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 219.98,
+      "cached_ms": 1.98
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        2678,
+        1568
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 282.24,
+      "cached_ms": 1.89
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        3213,
+        1881
+      ],
+      "max_click_error_px": 0,
+      "locate_ms": 233.41,
+      "cached_ms": 2.7
+    },
+    {
+      "frame": "20261002-171450-victory-30.png",
+      "size": [
+        964,
+        470
+      ],
+      "max_click_error_px": 1,
+      "locate_ms": 146.16,
+      "cached_ms": 1.84
+    }
+  ],
+  "game_input": false
+}
